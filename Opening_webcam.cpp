@@ -20,5 +20,6 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 
-  // In terminal in VS Code, type python webcam.py to run the program on windows
-  // Type python3 webcam.py to run the code on mac
+  // In terminal in VS Code, type python webcam.py to run the program on windows 
+ // Type python3 webcam.py to run the code on mac
+// Save the file with the filename "webcam.py"
