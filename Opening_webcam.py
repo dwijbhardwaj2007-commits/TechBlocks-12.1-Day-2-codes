@@ -20,7 +20,7 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 
-  # Save the file with the filename "webcam.py"
-  # In the terminal in VS Code, type python webcam.py to run the program on windows 
-  # Type python3 webcam.py to run the code on mac
+  # Save the file with the filename "webcam.py" under our main folder, i.e. TechBlocks_Day2.
+  # In the terminal in VS Code, type python webcam.py to run the program on windows, OR python3 webcam.py to run it on mac.
+ 
  
