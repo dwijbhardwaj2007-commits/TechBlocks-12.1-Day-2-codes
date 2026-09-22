@@ -23,4 +23,5 @@ cv2.imwrite("final_photo.jpg", cropped)
 
 print("Done! Cropped image saved as final_photo.jpg")
 
-#Save any image with the name myphoto.jpg inside the main folder or it would show image not found
+# Save any image with the name myphoto.jpg inside the main folder or it would show image not found
+# You  might see the whole image window getting small, but the image is actually getting resized and cropped, it's just the software that forces the image to fit inside the image window
